@@ -2,7 +2,7 @@
 <!-- Date: 2017-07-15 22:00:00 -->
 ---
 Hi,
-I would like to start again this blog and complete in-sync with Github; The content of this blog is on Github and each for each merge to master is going to be reflected on the blog. You can do it with your own site or blog with Bludit.
+Let's start testing the new version of Bludit with all the content of this blog on Github and for each merge to master is going to be reflected on the blog. You can do it with your own site or blog with Bludit.
 
 The old blog and old posts you can find here, https://blog.bludit.com/archive/
 
