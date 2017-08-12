@@ -3,9 +3,9 @@
 ---
 I would like to present the first beta version of the next generation of Bludit. This version of Bludit is **NOT** compatible with any previous Bludit version, because the database structure changed, I going to start working on the `exporter from v1.x to v2.x` but is going to be included in the next Beta version.
 
-**DO NOT UPDATE YOUR CURRENT VERSION WITH THIS VERSION. ONLY FOR CLEAN INSTALLATIONS**
+**DO NOT UPDATE YOUR CURRENT VERSION WITH THIS VERSION. ONLY FOR CLEAN INSTALLATIONS.**
 
-**THIS VERSION IS A BETA VERSION AND INCLUDES A LOT OF BUGS! IF YOU FIND SOME BUG, PLEASE REPORT IT AND I GOING TO KILL THEM**
+**THIS VERSION IS A BETA VERSION AND INCLUDES A LOT OF BUGS! IF YOU FIND SOME BUG, PLEASE REPORT IT AND I GOING TO KILL THEM.**
 
 ## Changelog
 You can check the changelog on Github.
