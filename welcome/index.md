@@ -21,4 +21,5 @@ Documentation:
 * [English](https://docs.bludit.com/en/)
 
 Enjoy !
+
 Bludit Team
