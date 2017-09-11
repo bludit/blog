@@ -7,7 +7,7 @@ New Beta version for the next Bludit v2.0.
 
 **YOU CAN UPDATE ANY BLUDIT v2.X (v2.0Alpha1, v2.0Alpha2, V2.0Beta1) WITH THIS BETA.**
 
-**THIS VERSION IS A BETA VERSION AND INCLUDES BUGS! IF YOU FIND SOME BUG, PLEASE REPORT IT AND I GOING TO KILL THEM.**
+THIS VERSION IS A BETA VERSION AND INCLUDES BUGS! IF YOU FIND SOME BUG, PLEASE REPORT IT.
 
 ## Help us with Translations
 The new English dictionary is released, you can translate it to your language. I take the dictionaries from Bludit v1.6 and recompiles for Bludit v2 but there are missing words.
