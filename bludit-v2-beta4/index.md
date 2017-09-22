@@ -3,7 +3,10 @@
 ---
 **DO NOT UPDATE FROM BLUDIT v1.x (v1.0,..., v1.6) WITH THIS BETA.**
 
-**YOU CAN UPDATE ANY BLUDIT v2.X (v2.0Alpha1, v2.0Alpha2, V2.0Beta1, V2.0Beta2, V2.0Beta3) WITH THIS BETA.**
+**Update from Bludit v2.0 (beta)**
+- The plugin `fixed-pages` was removed and replaced for `static-pages`.
+- Remove the old plugin, delete the folder `bl-plugins/fixed-pages`.
+- Enable the new plugin from Settings->Plugins->Static pages->active
 
 ## Download
 - [Bludit v2.0 beta 4](https://github.com/dignajar/bludit/archive/2.0-beta4.zip)
