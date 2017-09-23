@@ -4,7 +4,7 @@
 **Update from Bludit v1.6**
 - The bellow tools is **EXPERIMENTAL** and could produce some problem with the migration, please make a FULL BACKUP of your site.
 - Also, Bludit v2.0 beta 6 is a BETA version, this means that it may contain errors.
-- @anaggh is working on a tool to migrate from the version 1.6 to 2.0.
+- [@anaggh](https://github.com/anaggh) is working on a tool to migrate from the version 1.6 to 2.0.
 - Take a look to his repository: https://github.com/anaggh/bludit-scripts/tree/master/migration
 - Make a FULL BACKUP of your site, just copy all the files and directories on a new directory and if possible download to your PC.
 - Make a backup of the directory `bl-content`, yes I know you did a FULL BACKUP, just in case.
