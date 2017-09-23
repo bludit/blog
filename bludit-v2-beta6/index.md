@@ -2,7 +2,7 @@
 <!-- Date: 2017-09-24 01:00:00 -->
 ---
 **Update from Bludit v1.6**
-- The bellow tools is **EXPERIMENTAL** and could be some problem with the migration, please make a FULL BACKUP of your site.
+- The bellow tools is **EXPERIMENTAL** and could produce some problem with the migration, please make a FULL BACKUP of your site.
 - Also, Bludit v2.0 beta 6 is a BETA version, this means that it may contain errors.
 - @anaggh is working on a tool to migrate from the version 1.6 to 2.0.
 - Take a look to his repository: https://github.com/anaggh/bludit-scripts/tree/master/migration
