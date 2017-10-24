@@ -3,7 +3,7 @@
 ---
 We are pleased to announce the availability of **Bludit 2.0.1**. This is a maintenance release for the 2.0 series and brings many bug fixes.
 
-Thank all the users who help with the project.
+Thanks to all the users who collaborate with the project!
 
 ## Notes
 - Migration tool by [@anaggh](https://github.com/anaggh) is updated.
