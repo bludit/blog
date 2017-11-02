@@ -1,0 +1,22 @@
+# Title: Bludit v2.0.2
+<!-- Date: 2017-11-02 22:00:00 -->
+---
+We are pleased to announce the availability of **Bludit 2.0.2**. This is a maintenance release for the 2.0 series and brings many bug fixes.
+
+Thanks to all the users who collaborate with the project!
+
+## Notes
+- [How to Disable the admin user](https://docs.bludit.com/en/security/disable-admin-user)
+- [About Brute Force Protection](https://docs.bludit.com/en/security/brute-force-protection)
+- German Documentation in progress by [@Edi](https://github.com/clickwork-git)
+- Polish Documentation in progress by [@kaaleth](https://github.com/kaaleth)
+
+## Bludit PRO
+There is a new release of Bludit PRO, for the users who received the link before still valid for this version.
+- More information here https://pro.bludit.com
+
+## Download
+- [Bludit v2.0.2](https://df6m0u2ovo2fu.cloudfront.net/builds/bludit-v2.0.2.zip)
+
+## Changelog
+- Bludit v2.0.2, https://github.com/dignajar/bludit/releases/tag/2.0.2
