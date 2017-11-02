@@ -5,6 +5,9 @@ We are pleased to announce the availability of **Bludit 2.0.2**. This is a maint
 
 Thanks to all the users who collaborate with the project!
 
+If want to help with the project take a look at the page on Github, I'm adding some requests and ideas to implement or if you have some request or idea for the next version just create an entry.
+- https://github.com/bludit/bludit/issues
+
 ## Notes
 - [How to Disable the admin user](https://docs.bludit.com/en/security/disable-admin-user)
 - [About Brute Force Protection](https://docs.bludit.com/en/security/brute-force-protection)
