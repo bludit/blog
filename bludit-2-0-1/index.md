@@ -5,6 +5,8 @@ We are pleased to announce the availability of **Bludit 2.0.1**. This is a maint
 
 Thanks to all the users who collaborate with the project!
 
+<!-- pagebreak -->
+
 ## Notes
 - Migration tool by [@anaggh](https://github.com/anaggh) is updated.
 - New password recovery tool for Bludit, https://github.com/bludit/password-recovery-tool
@@ -17,8 +19,6 @@ There is a new release of Bludit PRO, for the users who received the link before
 
 ## Download
 - [Bludit v2.0.1](https://df6m0u2ovo2fu.cloudfront.net/builds/bludit-v2.0.1.zip)
-
-<!-- pagebreak -->
 
 ## Themes
 We have an official page for themes, this page has a repository, feel free to include your theme on it.
