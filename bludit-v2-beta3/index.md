@@ -7,6 +7,8 @@ New beta of Bludit v2.
 
 **YOU CAN UPDATE ANY BLUDIT v2.X (v2.0Alpha1, v2.0Alpha2, V2.0Beta1, V2.0Beta2) WITH THIS BETA.**
 
+<!-- pagebreak -->
+
 ## Download
 - [Bludit v2.0 beta 3](https://github.com/dignajar/bludit/archive/2.0-beta3.zip)
 

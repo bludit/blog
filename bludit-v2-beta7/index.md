@@ -13,6 +13,8 @@
 - Just replace all files with the new ones.
 - Remove the plugin `Pages` from `bl-plugins/pages`, was replaced for `Latest content`
 
+<!-- pagebreak -->
+
 ## Download
 - [Bludit v2.0 beta 7](https://github.com/dignajar/bludit/archive/2.0-beta7.zip)
 

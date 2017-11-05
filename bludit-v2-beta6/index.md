@@ -15,6 +15,8 @@
 ## Download
 - [Bludit v2.0 beta 6](https://github.com/dignajar/bludit/archive/2.0-beta6.zip)
 
+<!-- pagebreak -->
+
 ## Help us with Translations
 We need your help to create/edit/improve the different language dictionaries.
 

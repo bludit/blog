@@ -8,6 +8,8 @@
 - Remove the old plugin, delete the folder `bl-plugins/fixed-pages`.
 - Enable the new plugin from Settings->Plugins->Static pages->active
 
+<!-- pagebreak -->
+
 ## Download
 - [Bludit v2.0 beta 4](https://github.com/dignajar/bludit/archive/2.0-beta4.zip)
 

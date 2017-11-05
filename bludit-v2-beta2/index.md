@@ -9,6 +9,8 @@ New Beta version for the next Bludit v2.0.
 
 THIS VERSION IS A BETA VERSION AND INCLUDES BUGS! IF YOU FIND SOME BUG, PLEASE REPORT IT.
 
+<!-- pagebreak -->
+
 ## Help us with Translations
 The new English dictionary is released, you can translate it to your language. I take the dictionaries from Bludit v1.6 and recompiles for Bludit v2 but there are missing words.
 
