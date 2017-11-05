@@ -6,6 +6,8 @@ We are pleased to announce the release of **Bludit 2.0**. This version of Bludit
 ## Download
 - [Bludit v2.0](https://df6m0u2ovo2fu.cloudfront.net/builds/bludit-v2.0.zip)
 
+<!-- pagebreak -->
+
 ## Themes and Plugins
 There are tons of themes and plugins, we are working on them to bring compatibility with the version 2.0, meanwhile, you can check the themes and plugins included on the new version.
 

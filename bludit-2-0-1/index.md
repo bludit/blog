@@ -18,6 +18,8 @@ There is a new release of Bludit PRO, for the users who received the link before
 ## Download
 - [Bludit v2.0.1](https://df6m0u2ovo2fu.cloudfront.net/builds/bludit-v2.0.1.zip)
 
+<!-- pagebreak -->
+
 ## Themes
 We have an official page for themes, this page has a repository, feel free to include your theme on it.
 - Official page: https://themes.bludit.com
