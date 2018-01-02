@@ -34,7 +34,7 @@ If you already have Bludit PRO installed, you have two options:
 - Bludit v2.1 come only with 1 theme `kernel-panic`, all the other themes are in https://themes.bludit.com
 - All plugins and themes are compatible with this version but are recommended download the latest version of the plugins and themes.
 
-## From Bludit v1.6.x
+### From Bludit v1.6.x
 - The bellow tool is **EXPERIMENTAL** and could produce some problem with the migration, please make a **FULL BACKUP** of your site before start with the upgrade.
 - Take a look at his repository: https://github.com/anaggh/bludit-scripts/tree/master/migration
 - Follow the steps defined in the repository.
