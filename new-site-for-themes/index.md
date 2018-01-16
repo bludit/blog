@@ -1,7 +1,8 @@
 # Title: New site for themes
 <!-- Date: 2018-01-16 20:00:00 -->
 ---
-We have a new site to publish themes. This new website support free and paid themes.
+We have a new site to publish themes.
+This new site support free and paid themes.
 
 https://themes.bludit.com
 
