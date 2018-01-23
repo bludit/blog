@@ -6,6 +6,7 @@ We are pleased to announce the release of **Bludit 2.2.1**. This version of Blud
 Thanks to all the users and developers who help with the project, contributors on [Github](https://github.com/bludit/bludit/graphs/contributors) and there are more in the [Bludit Forum](https://forum.bludit.com) and in the [Gitter Chat](https://gitter.im/bludit/support), thanks!
 
 ## Sponsors
+[Become a Sponsor](https://opencollective.com/bludit#sponsor) and support Bludit with a monthly contribution to help us continue development.
 - [Clickwork](https://opencollective.com/clickwork)
 - [KreativMind](https://opencollective.com/kreativmind)
 - [Jan Rippl](https://opencollective.com/janrippl)
@@ -32,9 +33,11 @@ Thanks to all the users and developers who help with the project, contributors o
 - If you have some question the [Forum](https://forum.bludit.org) is a good alternative or the [Chat](https://gitter.im/bludit/support).
 
 ## Contribute
-In addition to users bugs reports, code contributions, we also accept donations via [OpenCollective](https://opencollective.com/bludit), [Paypal](https://www.paypal.me/bluditpro/5) or Bitcoins (1GDPautbEJ6fEJuAadFi6c2n1TCWVx2Sap).
+In addition to users bugs reports, code contributions, we also accept donations via:
+- [OpenCollective](https://opencollective.com/bludit)
+- [Paypal](https://www.paypal.me/bluditpro/5)
+- Bitcoins **1GDPautbEJ6fEJuAadFi6c2n1TCWVx2Sap**
 
 All contributions help us continue development.
 
-Regards,
 Bludit Team
