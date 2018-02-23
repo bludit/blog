@@ -50,7 +50,7 @@ The username and password for the admin panel is the same on each demo.
 - Take a look at his repository: https://github.com/anaggh/bludit-scripts/tree/master/migration
 - Make a FULL BACKUP of your site, just copy all the files and directories on a new directory and if possible download it to your PC.
 - Follow the steps defined in the repository.
-- If you have some question the [Forum](https://forum.bludit.org) is a good alternative or the [Chat](gitter.im/bludit/support).
+- If you have some question the [Forum](https://forum.bludit.org) is a good alternative or the [Chat](https://gitter.im/bludit/support).
 
 ## Changelog
 You can check the changelog on Github from the version 1.6.2 to the version 2.0.
