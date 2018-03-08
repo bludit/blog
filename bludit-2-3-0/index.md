@@ -12,6 +12,7 @@ The codename of this new version is related to the first commit I did to the rep
 - [Bludit v2.3](https://df6m0u2ovo2fu.cloudfront.net/builds/bludit-2-3.zip)
 
 ## Update from v2.x
+- If you are using Apache web server or a web server based on it you need to configure the `.htaccess`. [Apache Configuration](https://docs.bludit.com/en/webservers/apache)
 - Copy and replace old files with the new files.
 - The plugin `Menu` and `Lastest content` was deleted and replaced by the new plugin `Navigation`.
 - The theme `kernel-panic` was removed as the default theme, but you can still use it.
