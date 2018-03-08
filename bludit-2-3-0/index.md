@@ -11,6 +11,12 @@ The codename of this new version is related to the first commit I did to the rep
 ## Download
 - [Bludit v2.3](https://df6m0u2ovo2fu.cloudfront.net/builds/bludit-2-3.zip)
 
+## Update from v2.x
+- Copy and replace old files with the new files.
+- The plugin `Menu` and `Lastest content` was deleted and replaced by the new plugin `Navigation`.
+- The theme `kernel-panic` was removed as the default theme, but you can still use it.
+- After updated the files is recommended to login to the admin panel and check the settings.
+
 ## Demo
 There are a few demos running with this new version. These demos are refreshing every 1 hour and the uploader for images is disabled.
 - https://demo.bludit.com
