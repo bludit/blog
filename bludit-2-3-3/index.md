@@ -34,5 +34,4 @@ All changelog of the version 2.3.x in the below links:
 - [Bludit v2.3](https://github.com/bludit/bludit/releases/tag/2.3)
 
 Regards,
-
 The Bludit Community Team
