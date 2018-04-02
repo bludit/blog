@@ -3,7 +3,7 @@
 ---
 We are pleased to announce the release of **Bludit 2.3.4** with the new feature `Sticky Content`, languages dictionary updates and bug fixes.
 
-Also, we release the version of [Bludit PRO](https://pro.bludit.com) v2.3.4 for all collaborators on [Patreon](https://www.patreon.com/bludit). The link to [download Bludit PRO](https://www.patreon.com/posts/17921530).
+Also, we release the version of [Bludit PRO](https://pro.bludit.com) v2.3.4 for all collaborators on [Patreon](https://www.patreon.com/bludit).
 
 ## Download
 - [Bludit v2.3.4](https://df6m0u2ovo2fu.cloudfront.net/builds/bludit-2-3-4.zip)
