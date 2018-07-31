@@ -13,4 +13,5 @@ Changelog:
 - https://github.com/bludit/bludit/releases/tag/v3.0.0-beta-1
 
 Regards,
+
 The Bludit Community Team
