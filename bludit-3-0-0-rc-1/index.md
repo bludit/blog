@@ -8,4 +8,5 @@ Also, we release the version of [Bludit PRO](https://pro.bludit.com) v3.0.0 RC-1
 You can download Bludit from [here](https://github.com/bludit/bludit/archive/v3.0.0-rc-1.zip).
 
 Regards,
+
 **The Bludit Community Team**s
