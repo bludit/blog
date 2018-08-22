@@ -9,4 +9,4 @@ You can download Bludit from [here](https://github.com/bludit/bludit/archive/v3.
 
 Regards,
 
-**The Bludit Community Team**s
+**The Bludit Community Team**
