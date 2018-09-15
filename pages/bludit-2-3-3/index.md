@@ -1,7 +1,7 @@
-# Title: Bludit v2.3.3
+# Bludit v2.3.3
 <!-- Date: 2018-03-20 19:00:00 -->
 <!-- Coverimage: https://source.unsplash.com/ZK1WQDMQvik/1600x900 -->
----
+
 We are pleased to announce the release of **Bludit 2.3.3**. After the release of 2.3.2 we detected minor bugs and we want to provide the best experience for the user so we decide to release a new version.
 
 Also, we release the version of [Bludit PRO](https://pro.bludit.com) v2.3.3 for all collaborators on [Patreon](https://www.patreon.com/bludit). The link to download [Bludit PRO](https://pro.bludit.com) you can find in the posts in [Patreon](https://www.patreon.com/bludit).

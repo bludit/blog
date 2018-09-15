@@ -1,6 +1,6 @@
-# Title: Welcome
+# Welcome
 <!-- Date: 2017-07-15 22:00:00 -->
----
+
 Hi,
 Let's start testing the new version of Bludit with all the content of this blog on Github and for each merge to master is going to be reflected on the blog. You can do it with your own site or blog with Bludit.
 

@@ -1,6 +1,6 @@
-# Title: Bludit v2.3.1 "1-Commit"
+# Bludit v2.3.1 "1-Commit"
 <!-- Date: 2018-03-09 19:00:00 -->
----
+
 We are pleased to announce the release of **Bludit 2.3.1**. After the release of 2.3 we detected some minor bugs and we want to provide the best experience for the user so we decide to release a new version.
 
 ## Download

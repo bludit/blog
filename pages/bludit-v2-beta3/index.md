@@ -1,6 +1,6 @@
-# Title: Bludit v2.0 Beta 3
+# Bludit v2.0 Beta 3
 <!-- Date: 2017-09-15 20:00:00 -->
----
+
 New beta of Bludit v2.
 
 **DO NOT UPDATE ANY BLUDIT v1.x (v1.0,..., v1.6) WITH THIS BETA.**

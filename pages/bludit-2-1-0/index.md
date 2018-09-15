@@ -1,6 +1,6 @@
-# Title: Bludit v2.1 "Rick"
+# Bludit v2.1 "Rick"
 <!-- Date: 2017-12-27 22:00:00 -->
----
+
 We are pleased to announce the release of **Bludit 2.1**. This version of Bludit brings a massive improvement in performance, stability, and new features.
 
 Thanks to all the users and developers who help with the project, contributors on [Github](https://github.com/bludit/bludit/graphs/contributors) and there are more in the [Bludit Forum](https://forum.bludit.com) and in the [Gitter Chat](https://gitter.im/bludit/support), thanks!

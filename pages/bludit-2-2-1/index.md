@@ -1,6 +1,6 @@
-# Title: Bludit v2.2.1 "Pepper"
+# Bludit v2.2.1 "Pepper"
 <!-- Date: 2018-01-23 17:00:00 -->
----
+
 We are pleased to announce the release of **Bludit 2.2.1**. This version of Bludit improvement in performance, stability, and new features.
 
 Thanks to all the users and developers who help with the project, contributors on [Github](https://github.com/bludit/bludit/graphs/contributors) and there are more in the [Bludit Forum](https://forum.bludit.com) and in the [Gitter Chat](https://gitter.im/bludit/support), thanks!

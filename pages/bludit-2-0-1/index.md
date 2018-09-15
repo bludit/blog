@@ -1,6 +1,6 @@
-# Title: Bludit v2.0.1
+# Bludit v2.0.1
 <!-- Date: 2017-10-23 22:00:00 -->
----
+
 We are pleased to announce the availability of **Bludit 2.0.1**. This is a maintenance release for the 2.0 series and brings many bug fixes.
 
 Thanks to all the users who collaborate with the project!

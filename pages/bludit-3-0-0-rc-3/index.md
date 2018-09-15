@@ -1,6 +1,6 @@
-# Title: Bludit v3.0.0 RC-3
+# Bludit v3.0.0 RC-3
 <!-- Date: 2018-09-10 08:00:00 -->
----
+
 We are pleased to announce the thrid release candidate of **Bludit 3.0.0**. This version of Bludit improvement in stability, and bug fixes.
 
 Also, we release the version of [Bludit PRO](https://pro.bludit.com) v3.0.0 RC-3 for all collaborators on [Patreon](https://www.patreon.com/bludit). The link to download [Bludit PRO](https://pro.bludit.com) you can find in the posts in [Patreon](https://www.patreon.com/bludit).

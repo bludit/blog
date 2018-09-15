@@ -1,6 +1,6 @@
-# Title: Bludit v3.0.0 beta 1
+# Bludit v3.0.0 beta 1
 <!-- Date: 2018-07-31 18:00:00 -->
----
+
 Hi,
 finally, after a lot of work, the first beta of the version 3.0.
 
