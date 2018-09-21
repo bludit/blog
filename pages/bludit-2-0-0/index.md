@@ -1,5 +1,5 @@
 # Bludit v2.0 "Morty"
-<!-- Date: 2017-10-16 22:00:00 -->
+<!-- date: 2017-10-16 22:00:00 -->
 
 We are pleased to announce the release of **Bludit 2.0**. This version of Bludit brings a massive improvement on performance, stability, and flexibility and there are of course many new features.
 

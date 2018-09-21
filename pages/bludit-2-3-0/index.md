@@ -1,5 +1,5 @@
 # Bludit v2.3 "1-Commit"
-<!-- Date: 2018-03-08 08:00:00 -->
+<!-- date: 2018-03-08 08:00:00 -->
 
 We are pleased to announce the release of **Bludit 2.3**. This version of Bludit brings a massive improvement in performance and stability and many new features.
 

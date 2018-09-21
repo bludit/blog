@@ -1,5 +1,5 @@
 # Bludit v2.0 Beta 7
-<!-- Date: 2017-10-04 22:00:00 -->
+<!-- date: 2017-10-04 22:00:00 -->
 
 **Update from Bludit v1.6**
 - The bellow tools is **EXPERIMENTAL** and could produce some problem with the migration, please make a FULL BACKUP of your site.

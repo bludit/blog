@@ -1,5 +1,5 @@
 # New official websites
-<!-- Date: 2018-02-24 13:00:00 -->
+<!-- date: 2018-02-24 13:00:00 -->
 
 We have new websites, with a new navbar to get access more quickly to the important pages, also all websites are translated into German and Spanish. Thank [Edi](https://clickwork.ch) for the help.
 

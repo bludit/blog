@@ -1,5 +1,5 @@
 # Bludit v2.0 Beta 2
-<!-- Date: 2017-09-11 20:00:00 -->
+<!-- date: 2017-09-11 20:00:00 -->
 
 New Beta version for the next Bludit v2.0.
 

@@ -1,5 +1,5 @@
 # EU GDPR (General Data Protection Regultation)
-<!-- Date: 2018-03-30 13:00:00 -->
+<!-- date: 2018-03-30 13:00:00 -->
 
 We want like to communicate to the Bludit community about the `EU GDPR` a new law about the data protection and privacy of the users. We are working on it to provide to the user the best experience with Bludit and his privacy.
 

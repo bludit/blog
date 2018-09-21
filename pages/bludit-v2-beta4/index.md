@@ -1,5 +1,5 @@
 # Bludit v2.0 Beta 4
-<!-- Date: 2017-09-21 20:00:00 -->
+<!-- date: 2017-09-21 20:00:00 -->
 
 **DO NOT UPDATE FROM BLUDIT v1.x (v1.0,..., v1.6) WITH THIS BETA.**
 

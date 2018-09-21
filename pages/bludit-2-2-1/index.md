@@ -1,5 +1,5 @@
 # Bludit v2.2.1 "Pepper"
-<!-- Date: 2018-01-23 17:00:00 -->
+<!-- date: 2018-01-23 17:00:00 -->
 
 We are pleased to announce the release of **Bludit 2.2.1**. This version of Bludit improvement in performance, stability, and new features.
 

@@ -1,5 +1,5 @@
 # Password recovery tool
-<!-- Date: 2017-10-23 20:00:00 -->
+<!-- date: 2017-10-23 20:00:00 -->
 
 If you forgot the password of your Bludit, you can recover the password of the user `admin` and get access again to your Bludit.
 

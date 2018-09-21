@@ -1,5 +1,5 @@
 # Bludit v3.0.0 "Hops"
-<!-- Date: 2018-09-21 08:00:00 -->
+<!-- date: 2018-09-21 08:00:00 -->
 <!-- coverImage: https://source.unsplash.com/0376tfLb89c/1600x900 -->
 
 We are pleased to announce the release of **Bludit 3.0.0**. This version of Bludit brings a massive improvement in performance, stability, and flexibility and there are of course many new features.

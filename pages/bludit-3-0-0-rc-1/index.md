@@ -1,5 +1,5 @@
 # Bludit v3.0.0 RC-1
-<!-- Date: 2018-08-21 08:00:00 -->
+<!-- date: 2018-08-21 08:00:00 -->
 
 We are pleased to announce the first release candidate of **Bludit 3.0.0**. This version of Bludit improvement in stability, and bug fixes.
 

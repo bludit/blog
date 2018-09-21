@@ -1,5 +1,5 @@
 # Bludit v2.1 "Rick"
-<!-- Date: 2017-12-27 22:00:00 -->
+<!-- date: 2017-12-27 22:00:00 -->
 
 We are pleased to announce the release of **Bludit 2.1**. This version of Bludit brings a massive improvement in performance, stability, and new features.
 

@@ -1,5 +1,5 @@
 # Bludit v3.0.0 beta 2
-<!-- Date: 2018-08-10 18:00:00 -->
+<!-- date: 2018-08-10 18:00:00 -->
 
 We are pleased to announce the second beta of **Bludit 3.0.0**. This version of Bludit improvement in performance, stability, and bug fixes.
 

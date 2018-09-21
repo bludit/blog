@@ -1,5 +1,5 @@
 # Bludit v2.3.4
-<!-- Date: 2018-04-02 11:00:00 -->
+<!-- date: 2018-04-02 11:00:00 -->
 
 We are pleased to announce the release of **Bludit 2.3.4** with the new feature `Sticky Content`, languages dictionary updates and bug fixes.
 
