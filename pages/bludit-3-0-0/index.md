@@ -1,5 +1,5 @@
 # Bludit v3.0.0 "Hops"
-<!-- Date: 2018-09-21 12:00:00 -->
+<!-- Date: 2018-09-21 08:00:00 -->
 <!-- coverImage: https://source.unsplash.com/0376tfLb89c/1600x900 -->
 
 We are pleased to announce the release of **Bludit 3.0.0**. This version of Bludit brings a massive improvement in performance, stability, and flexibility and there are of course many new features.
@@ -25,7 +25,7 @@ We introduce an extended version of Bludit with a few extra plugins and themes t
 - https://pro.bludit.com
 
 ## Download
-- [Bludit v3.0.0]()
+- [Bludit v3.0.0](https://df6m0u2ovo2fu.cloudfront.net/builds/bludit-3-0-0.zip)
 
 ## Demo
 Play with Bludit without the need to install it. The demo is refreshing every 1 hour and the uploader for images is disabled.
