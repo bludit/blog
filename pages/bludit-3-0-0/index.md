@@ -41,7 +41,7 @@ The username and password for the admin panel are:
 Thank [@anaggh](https://github.com/anaggh) for providing the migration tool.
 
 - Take in mind the themes and plugins are not backward compatible, we are working to migrate them.
-- The bellow tool is **EXPERIMENTAL** and could produce some issue with the migration, please make a **FULL BACKUP** of your site before start with the upgrade.
+- The below tool is **EXPERIMENTAL** and could produce some issue with the migration, please make a **FULL BACKUP** of your site before start with the upgrade.
 - Take a look at his repository for the migration steps and information: https://github.com/anaggh/bludit-scripts/tree/master/migration-v2-to-v3
 - If you have some question the [Forum](https://forum.bludit.org) is a good place or the [Chat](https://gitter.im/bludit/support).
 
