@@ -7,6 +7,6 @@ This is a plugin for Bludit, you need first make a clean installation of Bludit 
 
 - https://github.com/blthemes/WordPress-Importer
 
-Watch the next video to see it in action.
+Watch the next video to see how the plugin works.
 
 <div style="padding:65.69% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/303525822?color=c9ff23" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
