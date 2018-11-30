@@ -3,9 +3,9 @@
 
 Now you can easily migrate from WordPress to Bludit with the bellow plugin from the developer of [BlThemes](https://blthemes.pp.ua).
 
-This is a plugin for Bludit, you need first make a clean installation of Bludit and then install the plugin. Download the plugin from the Github repository.
+This is a plugin for Bludit, you need first make a clean installation of Bludit and then install the plugin. Check the follow link to get more information and download the plugin.
 
-- https://github.com/blthemes/WordPress-Importer
+- https://blthemes.pp.ua/blog/wordpress-importer-for-bludit-cms-version-3
 
 Watch the next video to see how the plugin works.
 
