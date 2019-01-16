@@ -1,5 +1,5 @@
 # Bludit v3.6.1 "Pilsner"
-<!-- date: 2018-01-16 08:00:00 -->
+<!-- date: 2019-01-16 08:00:00 -->
 <!-- coverImage: https://source.unsplash.com/O99bWwDMBa8/1600x900 -->
 
 We are pleased to announce the release of **Bludit 3.6.1**. This version brings improves in UI, new features and bug fixes.
