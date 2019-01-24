@@ -1,5 +1,6 @@
 # Domain migrator plugin
 <!-- date: 2019-01-24 08:00:00 -->
+<!-- coverImage: https://raw.githubusercontent.com/bludit/plugins-repository/master/items/domain-migrator/screenshot.png -->
 
 This plugin allows you to move your Bludit installation to another domain or subdomain, also allow you to migrate from http to https.
 
