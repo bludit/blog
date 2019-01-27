@@ -6,9 +6,7 @@ We are pleased to announce the release of **Bludit 3.7.0**. This version brings 
 
 Thanks to all the people who support Bludit, developers, designers, translators, a lot of new people in the community!
 
-```
-NOTE: The plugin Disqus was updated, if you are using the plugin please go to the plugin's settings and click on the button save to regenerate the database.
-```
+> NOTE: The plugin Disqus was updated, if you are using the plugin please go to the plugin's settings and click on the button save to regenerate the database.
 
 Changelog
 - [Bludit v3.7.0](https://github.com/bludit/bludit/releases/tag/3.7.0).
