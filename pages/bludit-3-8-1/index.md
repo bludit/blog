@@ -1,8 +1,8 @@
 # Bludit v3.8.1 "APA"
-<!-- date: 2019-02-28 08:00:00 -->
+<!-- date: 2019-03-01 08:00:00 -->
 <!-- coverImage: https://source.unsplash.com/j0g8taxHZa0/1600x900 -->
 
-Bludit version 3.8.1 is here. This version brings bug fixes.
+Bludit version 3.8.1 is here. This version brings improves in tag and category system and bug fixes.
 
 Thanks to all the people who support Bludit, developers, designers, translators, a lot of new people in the community!
 
