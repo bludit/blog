@@ -6,6 +6,8 @@ Bludit version 3.8.1 is here. This version brings improves in tag and category s
 
 Thanks to all the people who support Bludit, developers, designers, translators, a lot of new people in the community!
 
+> NOTE: Bludit v3.8.1 now support PHP 5.6 or higher. We need to start to decommission the version 5.x because is not more supported by PHP team. I highly recommend updating your server to some version of PHP 7.x.
+
 Changelog
 - [Bludit v3.8.1](https://github.com/bludit/bludit/releases/tag/3.8.1).
 
