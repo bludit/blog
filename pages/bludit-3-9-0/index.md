@@ -6,7 +6,7 @@ We are pleased to announce the release of Bludit 3.9.0. This version brings impr
 
 [CHANGELOG](https://github.com/bludit/bludit/releases/tag/3.9.0)
 
-NOTE: The plugin `SimpleMDE` was removed and replaced by `EasyMDE`, so if you are using `SimpleMDE` remember to disable the plugin and activate `EasyMDE`.
+> NOTE: The plugin SimpleMDE was removed and replaced by EasyMDE, so if you are using SimpleMDE remember to disable the plugin and activate EasyMDE.
 
 ## Download
 - [Bludit v3.9.0](https://github.com/bludit/bludit/archive/3.9.0.zip)
