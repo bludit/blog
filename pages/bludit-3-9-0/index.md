@@ -14,4 +14,5 @@ NOTE: The plugin `SimpleMDE` was removed and replaced by `EasyMDE`, so if you ar
 Follow the steps from the documentation on the section `Upgrade from the same major version`
 - https://docs.bludit.com/en/getting-started/upgrade-guide
 
+
 The Bludit Community Team
