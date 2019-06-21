@@ -4,11 +4,14 @@
 
 We are pleased to announce the release of Bludit 3.9.2. Bug fixes and language updates!
 
-[CHANGELOG](https://github.com/bludit/bludit/releases/tag/3.9.2)
-
 > NOTE: The plugin SimpleMDE was removed and replaced by EasyMDE, so if you are using SimpleMDE remember to disable the plugin and activate EasyMDE.
 
+
 > NOTE: If you are using TinyMCE as editor, we recommend to deactivate the plugin and activate again, to reload the configuration.
+
+## Changelog
+You can see the changelog from Github.
+- https://github.com/bludit/bludit/releases/tag/3.9.2
 
 ## Download
 - [Bludit v3.9.2](https://github.com/bludit/bludit/archive/3.9.2.zip)
@@ -17,6 +20,7 @@ We are pleased to announce the release of Bludit 3.9.2. Bug fixes and language u
 Follow the steps from the documentation on the section `Upgrade from the same major version`
 - https://docs.bludit.com/en/getting-started/upgrade-guide
 
+## Photo
 Photo by [Lou Batier](https://unsplash.com/photos/5EoWFa_Htdo).
 
 The Bludit Community Team
