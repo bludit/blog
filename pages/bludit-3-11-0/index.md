@@ -2,7 +2,7 @@
 <!-- date: 2020-02-08 08:00:00 -->
 <!-- coverImage: https://source.unsplash.com/IX6vgLXvNSY/1600x900 -->
 
-We are pleased to announce the release of Bludit 3.11.0. The first version of 2020, this version bring improvments and bug fixes.
+We are pleased to announce the release of Bludit 3.11.0. The first version of 2020, this version brings improvements and bug fixes.
 
 Thanks a lot to the [Patreon](https://www.patreon.com/bludit) community with the support, it really helps to keep the project running.
 
