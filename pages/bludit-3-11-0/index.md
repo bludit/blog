@@ -9,7 +9,7 @@ Thanks a lot to the [Patreon](https://www.patreon.com/bludit) community with the
 [CHANGELOG](https://github.com/bludit/bludit/releases/tag/3.11.0a)
 
 ## Download
-- [Bludit v3.11.0](https://github.com/bludit/bludit/archive/3.1010.zip)
+- [Bludit v3.11.0](https://www.bludit.com/releases/bludit-3-11-0.zip)
 
 ## Upgrade from Bludit v3.x to Bludit v3.11.0
 Follow the steps from the documentation on the section `Upgrade from the same major version`
