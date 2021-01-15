@@ -20,3 +20,10 @@ Allow upload any kind of type of file.
 ## API
 - Create/edit/delete categories
 - Create/edit/delete users
+
+## Logo refresh
+I would like to do a refresh of the current logo, anyone can collaborate and provide alternatives.
+
+We have one from Multicolor by [Mateusz Skrzypczak](https://www.facebook.com/multicolorstargard).
+
+<img src="https://github.com/bludit/logos/raw/master/multicolor/yello.png" alt="alternative-logo-by-mulicolor">
