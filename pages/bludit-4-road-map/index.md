@@ -5,15 +5,18 @@ After some time without posting on the Blog I decided to show some progress on B
 
 ## 15/03/2021
 
-### Refreshing the admin panel / UI
-
+### Refresh admin panel / UI
 - Bootstrap v5
 - Boostrap icons
-- Next to cooming Dark mode
-- Everthing via AJAX
+- Editor area via AJAX, you don't need to refresh the page to save your changes
 
 <a href="https://ibb.co/zZjzmXp"><img src="https://i.ibb.co/5LtP1rm/Screenshot-2021-01-15-at-17-48-59.png" alt="Bludit v4 - Admin panel" border="0"></a>
 
-## Working on
-- API create/edit/delete categories
-- API create/edit/delete users
+### File manager
+Allow upload any kind of type of file.
+
+<a href="https://ibb.co/sWTpr9S"><img src="https://i.ibb.co/5KQXVhD/bludit-v4-file-manager.png" alt="bludit-v4-file-manager" border="0"></a>
+
+## API
+- Create/edit/delete categories
+- Create/edit/delete users
