@@ -5,6 +5,13 @@ After some time without posting on the Blog I decided to show some progress on B
 
 ## 15/03/2021
 
+## Highlights
+- API feature, upload files
+- API feature, get files related to a page
+- API feature, generate a friendly URL for a page
+- API feature, create/edit/delete categories
+- API feature, create/edit/delete users
+
 ### Refresh admin panel / UI
 - Bootstrap v5
 - Boostrap icons
@@ -17,13 +24,9 @@ Allow upload any kind of type of file.
 
 <a href="https://ibb.co/sWTpr9S"><img src="https://i.ibb.co/5KQXVhD/bludit-v4-file-manager.png" alt="bludit-v4-file-manager" border="0"></a>
 
-## API
-- Create/edit/delete categories
-- Create/edit/delete users
+## Logo
+I would like to do a refresh of the current logo or change it for a new one, any help is welcome!
 
-## Logo refresh
-I would like to do a refresh of the current logo, anyone can collaborate and provide alternatives.
-
-We have one from Multicolor by [Mateusz Skrzypczak](https://www.facebook.com/multicolorstargard).
+Thank to Multicolor by [Mateusz Skrzypczak](https://www.facebook.com/multicolorstargard) for the following logo.
 
 <img src="https://github.com/bludit/logos/raw/master/multicolor/yello.png" alt="alternative-logo-by-mulicolor">
