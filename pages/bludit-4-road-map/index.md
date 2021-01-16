@@ -1,7 +1,7 @@
 # Bludit v4 Road map
 <!-- date: 2021-01-15 18:00:00 -->
 
-After some time without posting on the Blog I decided to show some progress on Bludit v4. I will try to update this post with the progress and ideas I would like to achieve.
+After some time without posting on the blog, I decided to show some progress of Bludit v4. I will try to update this post with some highlights in the changelog.
 
 ## 15/01/2021
 
