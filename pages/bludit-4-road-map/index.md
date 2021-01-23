@@ -28,6 +28,8 @@ Thank lodria, please check the post in the forum, https://forum.bludit.org/viewt
 Thanks to Claquettes Bleues, please check the following Tweet, https://twitter.com/bludit/status/1344364223682502660
 <a href="https://ibb.co/7R0SF61"><img src="https://i.ibb.co/gPcrCBR/Es-QX9rl-W8-AMv3le.jpg" alt="Es-QX9rl-W8-AMv3le" border="0"></a>
 
+<hr/>
+
 ## 15/01/2021
 
 ### Highlights
