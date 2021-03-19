@@ -21,9 +21,9 @@ After some time without posting on the blog, I decided to show some progress of 
 ### Plugins for Dashboard
 Simple way to add plugins to the dashboard and order them.
 
-<a href="https://ibb.co/5sNjzWY"><img src="https://i.ibb.co/5sNjzWY/Screenshot-2021-03-19-at-15-43-43.png" alt="Screenshot-2021-03-19-at-15-43-43" border="0"></a>
+<a href="https://ibb.co/5sNjzWY"><img src="https://i.ibb.co/ygwkMnh/Screenshot-2021-03-19-at-15-43-43.png" alt="Screenshot-2021-03-19-at-15-43-43" border="0" /></a>
 
-<a href="https://ibb.co/qmwqRCz"><img src="https://i.ibb.co/qmwqRCz/Screenshot-2021-03-19-at-15-43-31.png" alt="Screenshot-2021-03-19-at-15-43-31" border="0"></a>
+<a href="https://ibb.co/qmwqRCz"><img src="https://i.ibb.co/h2vQKck/Screenshot-2021-03-19-at-15-43-31.png" alt="Screenshot-2021-03-19-at-15-43-31" border="0" /></a>
 
 ## 23/01/2021
 
