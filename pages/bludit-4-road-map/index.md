@@ -3,10 +3,32 @@
 
 After some time without posting on the blog, I decided to show some progress of Bludit v4. I will try to update this post with some highlights in the changelog.
 
+## 19/03/2021
+
+### Highlights
+- Plugins settings shows the description by default.
+- "Simple stats" now is "Visits Stats", and only shows visits and unique visitors, I will create new plugins for show more stats such as disk space, number of pages, etc.
+- EasyMDE updated for Bludit v4.
+- TinyMCE updated for Bludit v4.
+- Welcome message now is a plugin for the dashboard, you can disable it.
+- New branch for Documentation in english for Bludit v4, https://github.com/bludit/documentation-english/tree/v4.0
+- Move frameworks to a proper folder /bl-kernel/vendors/
+- `Theme::` helper now is called `HTML::` helper.
+- API feature, activate/deactivate plugins.
+- API feature, allow configure plugins.
+- API feature, upload and remove site logo.
+
+### Plugins for Dashboard
+Simple way to add plugins to the dashboard and order them.
+
+<a href="https://ibb.co/5sNjzWY"><img src="https://i.ibb.co/5sNjzWY/Screenshot-2021-03-19-at-15-43-43.png" alt="Screenshot-2021-03-19-at-15-43-43" border="0"></a>
+
+<a href="https://ibb.co/qmwqRCz"><img src="https://i.ibb.co/qmwqRCz/Screenshot-2021-03-19-at-15-43-31.png" alt="Screenshot-2021-03-19-at-15-43-31" border="0"></a>
+
 ## 23/01/2021
 
 ### Highlights
-- API, upload/delete profile picture
+- API feature, upload/delete profile picture
 - Included new library for manage images [SimpleImages](https://github.com/claviska/SimpleImage)
 - Warn user before leaving web page with unsaved changes
 - Refactor as usual of Bludit's core
