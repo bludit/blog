@@ -3,6 +3,21 @@
 
 After some time without posting on the blog, I decided to show some progress of Bludit v4. I will try to update this post with some highlights in the changelog.
 
+## 24/04/2021
+
+### Highlights
+- New default theme PopEye
+- Automatic install and configure API plugin for the admin area
+- Improved related pages function
+- Improved Login class for authentication through API
+- More changes in Bludit core for v4.0
+
+## New default theme PopEye
+
+<a href="https://ibb.co/f2y6YJP"><img src="https://i.ibb.co/G08Yvmb/Screenshot-2021-04-24-at-19-58-34.png" alt="Screenshot-2021-04-24-at-19-58-34" border="0"></a>
+<a href="https://ibb.co/XStKTSz"><img src="https://i.ibb.co/t8Dv58b/Screenshot-2021-04-24-at-19-58-40.png" alt="Screenshot-2021-04-24-at-19-58-40" border="0"></a>
+<a href="https://ibb.co/qp0V8qB"><img src="https://i.ibb.co/RchdKr2/Screenshot-2021-04-24-at-19-58-50.png" alt="Screenshot-2021-04-24-at-19-58-50" border="0"></a>
+
 ## 19/03/2021
 
 ### Highlights
