@@ -3,6 +3,22 @@
 
 After some time without posting on the blog, I decided to show some progress of Bludit v4. I will try to update this post with some highlights in the changelog.
 
+## 07/06/2021
+Release of Bludit v4.0.0 Alpha 2. [Download from Github](https://github.com/bludit/bludit/releases/tag/4.0.0-alpha2).
+### Highlights
+- Setting for themes based on plugins, check the theme and plugin "popeye"
+- UI improvemnets for Admin panel
+- Dark mode for Admin panel
+- Dark mode for PopEye theme
+- Remove pages from the content page
+- Include cover images in RSS plugin
+- Improve HTTPs detection behind proxy
+- Comments standars based on https://symfony.com/doc/current/contributing/code/standards.html
+## Dark mode for Admin panel and PopEye theme
+
+<a href="https://ibb.co/7yc0Bpx"><img src="https://i.ibb.co/ThXNJ0D/popeye-darkmode-bludit-v4.png" alt="popeye-darkmode-bludit-v4" border="0"></a>
+<a href="https://ibb.co/7S990q5"><img src="https://i.ibb.co/ZfZZb0P/Screenshot-2021-06-07-at-20-34-20.png" alt="admin-panel-darkmode-bludit-v4" border="0"></a>
+
 ## 24/04/2021
 
 ### Highlights
